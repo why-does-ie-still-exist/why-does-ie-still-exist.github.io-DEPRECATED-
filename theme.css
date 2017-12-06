@@ -1,3 +1,10 @@
+
+html {
+	background: linear-gradient(white, rgb(175, 206, 255), rgb(175, 206, 255), rgb(255, 94, 94));
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	
+}
 .navbar{
   border: 1px solid green;
   /*text-align: center;
@@ -21,13 +28,6 @@
   background-color: #ddd;
    color: black;
 }
-html {
-	background: linear-gradient(white, rgb(175, 206, 255), rgb(175, 206, 255), rgb(255, 94, 94));
-	background-repeat: no-repeat;
-	background-attachment: fixed;
-	height: 100%;
-}
-
 h1 {
 	font-family: 'Open Sans Condensed', sans-serif;
 	margin: 10;
