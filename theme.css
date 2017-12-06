@@ -4,16 +4,28 @@ html {
 	background-attachment: fixed;
 	height: 100%;
 }
-a{
-
-  color:rgb(0,0,0);
-
+.navbar{
+  border: 1px solid green;
+  /*text-align: center;
+  list-style-type: none;
+   margin: 0;
+   padding: 0;*/
+   background-color: gray;
+   overflow: hidden;
+   width:85;
+   margin:auto;
 }
-a:hover{
-  color:red;
+.navbar li{
+    display: inline-block;
+    float:left;
+    padding: 10px 10px;
+    text-decoration: none;
+    font-size: 17px;
+    list-style-type: none;
 }
-a:active{
-  color:green;
+.navbar li:hover {
+  background-color: #ddd;
+   color: black;
 }
 h1 {
 	font-family: 'Open Sans Condensed', sans-serif;
