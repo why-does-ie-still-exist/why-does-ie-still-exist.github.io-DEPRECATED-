@@ -4,6 +4,17 @@ html {
 	background-attachment: fixed;
 	height: 100%;
 }
+a{
+
+  color:rgb(0,0,0);
+
+}
+a:hover{
+  color:red;
+}
+a:active{
+  color:green;
+}
 h1 {
 	font-family: 'Open Sans Condensed', sans-serif;
 	margin: 10;
