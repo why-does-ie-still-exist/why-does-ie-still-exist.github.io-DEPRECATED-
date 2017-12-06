@@ -6,12 +6,10 @@ html {
 	
 }
 .navbar{
-  border: 1px solid green;
   /*text-align: center;
   list-style-type: none;
    margin: 0;
    padding: 0;*/
-   background-color: gray;
    overflow: hidden;
    width:85;
    margin:auto;
