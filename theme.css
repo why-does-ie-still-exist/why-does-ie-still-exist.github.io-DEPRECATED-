@@ -5,6 +5,9 @@ html {
 	background-attachment: fixed;
 	height: 100%;
 }
+.img{
+	float:left;
+}
 .navbar{
    text-align: bottom;
    list-style-type: none;
