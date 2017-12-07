@@ -6,7 +6,7 @@ html {
 	height: 100%;
 }
 .navbar{
-   text-align: center;
+   text-align: bottom;
    list-style-type: none;
    margin: 0;
    padding: 0;
@@ -14,7 +14,7 @@ html {
 }
 .navbar li{
     display: inline-block;
-    padding: 5px 5px;
+    padding: 10px 10px;
     text-decoration: none;
     font-size: 17px;
     list-style-type: none;
