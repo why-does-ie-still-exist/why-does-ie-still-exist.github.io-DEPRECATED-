@@ -14,6 +14,7 @@ img{
    margin: 0;
    padding: 0;
    overflow: hidden;
+   font-family: 'Bungee', cursive;
 }
 .navbar li{
     display: inline-block;
@@ -21,10 +22,12 @@ img{
     text-decoration: none;
     font-size: 25px;
     list-style-type: none;
+    font-family: 'Bungee', cursive;
 }
 .navbar li:hover {
-  background-color: #ddd;
+   background-color: #ddd;
    color: black;
+   font-family: 'Bungee', cursive;
 }
 h1 {
 	font-family: 'Open Sans Condensed', sans-serif;
@@ -32,8 +35,7 @@ h1 {
 	font-weight: bold
 }
 p {
-	font-family: 'Bungee', cursive;
-	font-stretch: expanded;
+	font-family: 'Nunito', sans-serif;
 	margin: 10;
 	font-size: 120%;
 }
