@@ -34,13 +34,20 @@ h1 {
 	margin: 10;
 	font-weight: bold
 }
+h2 {
+	font-family: 'Open Sans Condensed', sans-serif;
+	margin: 10;
+}
 p {
 	font-family: 'Nunito', sans-serif;
 	margin: 10;
 	font-size: 120%;
 }
-h2 {
+em {
 	font-family: 'Nunito', sans-serif;
 	margin: 10;
 	font-size: 120%;
+	font-stretch: expanded;
 }
+
+
