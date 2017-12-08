@@ -3,6 +3,11 @@ html {
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 }
+.everything{
+	background: linear-gradient(white, rgb(175, 206, 255), rgb(175, 206, 255), rgb(255, 94, 94));
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
 /**{
   margin:0;
   padding:0;
