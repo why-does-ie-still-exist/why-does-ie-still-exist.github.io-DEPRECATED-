@@ -15,6 +15,10 @@ img{
 	float:left;
 	padding-left:2px;
 }
+.random{
+	float:left;	
+	padding-left:2px;
+}
 .navbar{
    text-align: bottom;
    list-style-type: none;
