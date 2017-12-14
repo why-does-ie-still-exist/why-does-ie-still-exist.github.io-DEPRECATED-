@@ -21,6 +21,10 @@ img{
    padding: 0;
    overflow: hidden;
    font-family: 'Bungee', cursive;
+   font-family: 'Nunito', sans-serif;
+   margin: 10;
+    font-size: 120%;
+   font-stretch: expanded;
 }
 .navbar li{
     display: inline-block;
