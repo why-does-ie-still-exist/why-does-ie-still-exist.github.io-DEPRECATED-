@@ -14,10 +14,12 @@ html {
 img{
 	float:left;
 	padding-left:2px;
+	margin-left:5px;
 }
 .random{
 	float:left;	
 	padding-left:2px;
+	margin-left:5px;
 }
 .navbar{
    text-align: bottom;
