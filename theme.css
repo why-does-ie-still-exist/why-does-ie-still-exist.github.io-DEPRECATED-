@@ -29,6 +29,10 @@ img{
    color: black;
    font-family: 'Bungee', cursive;
 }
+.container{
+  width:85%;
+  margin:auto;
+}
 h1 {
 	font-family: 'Open Sans Condensed', sans-serif;
 	margin: 10;
